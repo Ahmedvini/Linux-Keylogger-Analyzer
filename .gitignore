@@ -1,0 +1,11 @@
+
+# C binaries and logs
+keylogger_c
+analyze_c
+keylog_c.txt
+key_stats.csv
+key_stats.json
+
+# VSCode and editor files
+.vscode/
+*.code-workspace
